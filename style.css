@@ -1,0 +1,371 @@
+.header{
+    background: #000000;
+    width: 100%;
+    height: 64px;
+ }
+ body{
+    margin: 0;
+ }
+ .logo{
+    width: 50%;
+    float: left;
+ }
+ .login{
+    width: 50%;
+    float: left;
+    padding-top: 20px;
+   
+
+ }
+ .logo-text{
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+      padding-top: 41px;
+      font:caption;
+      font-size: 22px;
+      
+}
+.table-color{
+    color: white;
+    margin-left: 111px;
+    padding-top: 22px;
+    position: relative;
+    top: -7px;
+
+}
+.let{
+    padding-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+.table-font{
+   color: #ffff;
+   padding-left: 350px;
+   
+}
+.item-text{
+   padding-left: 28px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 14px;
+}
+.button{
+   border-radius: 18px;
+    transform: scale(1.2);
+    border: none;
+    padding: 6px;
+    background-color: white; 
+}
+.main-text{
+   position: absolute;
+  
+   font-size: 52px;
+        font-weight: 700;
+        line-height: 64px;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        color: #000000;
+        padding-left: 165px;
+        position: relative;
+    top: 11px;
+
+}
+.car{
+  padding-left: 170px;
+  color: gray;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: 275px;
+   left: -1px;
+}
+.car-button{
+   position: relative;
+    bottom: 11px;
+    background: #e0e0e0;
+    border-radius: 5px;
+    border: none;
+    height: 43px;
+}
+#ride{
+   font-size: 17px;
+    position: relative;
+    top: -18px;
+    font-stretch: ultra-condensed;
+}
+
+
+   
+
+ .sel{
+   position: absolute;
+   left: 400px;
+   top:21px;
+ }
+ select{
+   
+   color: aliceblue;
+   background-color: black;
+   border: none;
+   font-size: 17px;
+ }
+ img{
+   width: 15cm;
+    height: 35pc;
+    position: relative;
+    left: 20cm;
+    top: -11pc;
+    background-color: #000000;
+ }
+   .pack-button{
+      width: 20px;
+      height: 30px;
+   }
+  
+ .pack-icon{
+   position: relative;
+   bottom: 618px;
+   left: 309px;
+}
+.bi.bi-box-fill{
+   font-size: large;
+}
+.fa-solid{
+   font-size: 19px;
+   position: relative;
+   top: 10px;
+}
+
+.form1{
+   position: relative;
+    bottom: 480px;
+    left: 172px;
+}
+.form11{
+   width: 398px;
+    height: 39px;
+    width: 398px;
+    height: 45px;
+    background: #ebebeb;
+    border: none;
+    border-radius: 7px;
+}
+.form2{
+   position: relative;
+   bottom: 533px;
+   left: 172px;
+}
+.form3{
+   position: relative;
+   bottom: 586px;
+   left: 172px;
+}
+.form31{
+   width: 398px;
+    height: 39px;
+    width: 194px;
+    height: 45px;
+    background: #ebebeb;
+    border: none;
+    border-radius: 7px;
+}
+.pickup-text{
+   font-family: sans-serif;
+    position: relative;
+    bottom: 49px;
+    left: 45px;
+    color: gray;
+}
+.dropoff-text{
+   font-family: sans-serif;
+    position: relative;
+    bottom: 49px;
+    left: 48px;
+    color: gray;
+}
+.today-text{
+   font-family: sans-serif;
+   position: relative;
+   bottom: 48px;
+   left: 59px;
+   color: gray;
+}
+.now-text{
+   font-family: sans-serif;
+   position: relative;
+   bottom: 48px;
+   left: 60px;
+   color: gray;
+}
+.form4{
+   position: relative;
+    bottom: 702px;
+    left: 376px;
+}
+.fa-sharp.fa-solid.fa-circle{
+   font-weight: 900;
+    position: relative;
+    top: -83px;
+    left: 19px;
+    font-size: 9px;
+}
+.fa-sharp.fa-solid.fa-square{
+   font-weight: 900;
+   position: relative;
+   top: -84px;
+   left: 19px;
+   font-size: 9px;
+}
+
+.fa-sharp.fa-solid.fa-calendar-day{
+   position: relative;
+    top: -82px;
+    left: 18px;
+    font-size: 17px;
+}
+.line{
+   background-color: black;
+   width: 1px;
+   height: 48px;
+   position: relative;
+   bottom: 913px;
+   left: 194px;
+}
+.fa-solid.fa-clock{
+   position: relative;
+    top: -82px;
+    left: 16px;
+
+}
+.fa-sharp.fa-solid.fa-location-arrow{
+   position: relative;
+   top: -82px;
+   left: 357px;
+   font-size: 23px;
+}
+.s-button{
+   position: relative;
+   bottom: 804px;
+   left: 173px;
+    width: 135px;
+    height: 51px;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+}
+.fa-sharp.fa-solid.fa-box{
+   position: relative;
+   top: -582px;
+   left: 319px;
+}
+.package{
+   position: relative;
+   top: -590px;
+   left: 301px;
+   font-family: sans-serif;
+   font-stretch: ultra-condensed;
+   font-weight: bolder;
+}
+.package1{
+   color: gray;
+}
+.package1:hover{
+   color: black;
+}
+.what{
+   position: relative;
+   top: -68px;
+}
+.fa-solid.fa-globe{
+   position: relative;
+   top: 1px;
+}
+.sugg{
+   width: 100%;
+    height: 276px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: -688px;
+}
+.sug{
+   font-family: Arial, Helvetica, sans-serif;
+    font-size: 37px;
+    font-weight: 600;
+    position: relative;
+    left: 168px;
+}
+.scr{
+   width: 1194px;
+    height: 212px;
+    position: relative;
+    left: 148px;
+    top: -7px;
+}
+.Drive{
+   width: 100%;
+   height: 760px;
+   background-color:white;
+   position: relative;
+   top: -688px;
+}
+.drive-img{
+   position: relative;
+   left: 164px;
+   top: 103px;
+   border-radius: 10px;
+}
+.d-word{
+   font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 52px;
+        font-weight: 700;
+        line-height: 64px;
+        position: relative;
+    left: 874px;
+    top: -442px;  
+}
+.d-subword{
+   font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 24px;
+    position: relative;
+    left: 875px;
+    top: -455px;
+}
+.start-button{
+   font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+   position: relative;
+    left: 876px;
+    top: -424px;
+    width: 133px;
+    height: 50px;
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+}
+.start-button:hover{
+   background-color: rgb(45, 44, 44);
+}
+.Already{
+   color: #000000;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    position: relative;
+    top: -2px;
+}
+.alredi{
+   width: 238px;
+   height: 25px;
+   background-color: white;
+   position: relative;
+   left: 1065px;
+   top: -474px;
+   border-color: black;
+   border: solid;
+   border-block-start-width: 0px;
+   border-block-end-width: 1px;
+   border-inline-end-width: 0;
+   border-inline-start-width: 0;
+}
